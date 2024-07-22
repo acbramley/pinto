@@ -10,7 +10,7 @@ use Pinto\List\ObjectListInterface;
 /**
  * Pinto mapping.
  */
-final readonly class PintoMapping
+final class PintoMapping
 {
     /**
      * @param array<class-string<\Pinto\List\ObjectListInterface>> $enumClasses
